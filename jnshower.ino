@@ -95,6 +95,7 @@ int16_t readMaxDiffSampled(){
 int16_t readAmpsMax_01(){
   return readMaxDiffSampled()/AMP_DIVIDER;
 }
+
 int16_t readAmpsAverage_01(){
   int32_t acc = 0;
   int16_t diff; 
