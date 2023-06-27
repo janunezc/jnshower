@@ -12,11 +12,11 @@
 
 #define BUTTON_DELAY_MS    500
 #define HEATING_TIME_MS    65000
-#define SHOWER_TIME_MS     240000
+#define SHOWER_TIME_MS     180000
 #define MICRO_PAUSE_INI_MS 160000
 #define MICRO_PAUSE_DUR_MS 5000
 
-#define PAUSE_TIME_MS      120000
+#define PAUSE_TIME_MS      180000
 #define ARMED_TIME_MS      3600000 /*1hr*/
 
 
